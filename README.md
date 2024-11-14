@@ -23,7 +23,8 @@ A stylish, interactive to-do list application built with HTML, CSS, and JavaScri
 
 ## Screenshots
 
-![To-Do App Screenshot](path/to/your/screenshot.png)
+![To-Do App Screenshot]![image](https://github.com/user-attachments/assets/5a52b5bb-7c60-449e-845d-f5b6a2b610cf)
+
 
 ## Technologies
 
